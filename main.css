@@ -1,0 +1,40 @@
+div {
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+}
+
+.col-1 {
+    background-color: aqua;
+    text-align: center;
+}
+
+.col-sm-3 {
+    background-color: green;
+    text-align: center;
+}
+
+.col-md-4 {
+    background-color: blue;
+    text-align: center;
+}
+
+#row4 {
+    background-color: purple;
+    text-align: center;
+}
+
+#row5 {
+    background-color: rgb(210, 77, 210);
+    text-align: center;
+}
+
+#row6 {
+    background-color: pink;
+    text-align: center;
+}
+
+.col-12 {
+    background-color: red;
+    text-align: center;
+}
