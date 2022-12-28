@@ -1,4 +1,4 @@
-div {
+.row>* {
     border-style: solid;
     border-color: white;
     border-width: 3px;
@@ -19,7 +19,7 @@ div {
     text-align: center;
 }
 
-#row4 {
+.purple {
     background-color: purple;
     text-align: center;
 }
