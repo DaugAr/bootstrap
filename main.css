@@ -1,7 +1,11 @@
-.row>* {
+/* .row>* {
     border-style: solid;
-    border-color: white;
+    border-color: black;
     border-width: 3px;
+} */
+body,
+body * {
+    /* box-sizing: border-box; */
 }
 
 .col-1 {
@@ -39,33 +43,16 @@
     text-align: center;
 }
 
-.first1 {
+.high {
+    height: 400px;
+}
+
+.low {
+    height: 200px;
+}
+
+.b {
     border-style: solid;
     border-color: black;
     border-width: 3px;
-    border-bottom: 0;
-    border-right: 0;
-}
-
-.second1 {
-    border-style: solid;
-    border-color: black;
-    border-width: 3px;
-    border-top: 0;
-    border-right: 0;
-}
-
-.col-3 {
-    border-style: solid;
-    border-color: black;
-    border-width: 3px;
-}
-
-.first2 {
-    border-bottom: 0;
-    border-right: 0;
-}
-
-.first3 {
-    border-bottom: 0;
 }
