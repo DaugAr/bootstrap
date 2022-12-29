@@ -38,3 +38,34 @@
     background-color: red;
     text-align: center;
 }
+
+.first1 {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-bottom: 0;
+    border-right: 0;
+}
+
+.second1 {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-top: 0;
+    border-right: 0;
+}
+
+.col-3 {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
+
+.first2 {
+    border-bottom: 0;
+    border-right: 0;
+}
+
+.first3 {
+    border-bottom: 0;
+}
